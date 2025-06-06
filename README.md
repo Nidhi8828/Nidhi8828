@@ -5,9 +5,9 @@
 
 ### About Me
 - 🎓 I’m a final-year Computer Science student.
-- 🌱 Currently exploring **AI/ML integration in projects** and diving into **supervised, unsupervised learning, and related concepts**.
-- 💻 Previously worked with **MERN stack**, **Next.js**, and **API development**.
-- 📫 Reach me at **[Your Email Here]**.
+- 🌱 Currently exploring **Full stack development** and diving into **AIML**.
+- 💻 Previously worked with **MERN stack** and **Next.js**.
+- 📫 Reach me at **nidhi.dasari24@gmail.com**.
 
 ---
 
@@ -21,7 +21,7 @@
 ---
 
 ### 🌱 Currently Learning:
-- AI/ML concepts like supervised and unsupervised learning
+- Full stack development of sites which solve real-world problems
 - Integration of AI into real-world projects
 
 ---
@@ -33,8 +33,6 @@
 
 ### 📫 Connect with Me:
 - 💼 LinkedIn: [www.linkedin.com/in/nidhi-dasari-1163a9260]
-- 🌐 Portfolio: [Your Portfolio URL]
-
 
 <!--
 **Nidhi8828/Nidhi8828** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
